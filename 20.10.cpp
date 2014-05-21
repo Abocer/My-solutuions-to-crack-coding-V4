@@ -85,7 +85,7 @@ void transform(const Dict &dict, const string src, const string dst)
 		}		
 	}
 	cout<<"no path found for transformation\n";
-}//time O(E+v*d),space O(V)
+}//time O(E+V*d),space O(V)
 
 
 
